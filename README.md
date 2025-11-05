@@ -6,7 +6,9 @@
 <h3 align="center">CorpseTweaker</h3>
 
 <div align="center">
-  A simple key management mod
+  allows you to customize the pose of the corpse.
+  <br/>
+  允许你自定义遗体的姿势
   <br/>
 </div>
 
