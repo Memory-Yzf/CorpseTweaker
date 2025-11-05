@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.yzf.corpse_tweaker.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CorpseBoundingBoxBaseMixin"
+  ],
+  "client": [
+    "PlayerModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
